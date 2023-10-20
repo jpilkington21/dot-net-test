@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net7.0": {
       "Castle.Core/5.1.1": {
         "type": "package",
         "dependencies": {
@@ -429,7 +429,7 @@
       },
       "EngineeringServices/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/EngineeringServices.dll": {}
         },
@@ -1040,7 +1040,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net7.0": [
       "EngineeringServices >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.6.3",
       "Moq >= 4.18.4",
@@ -1068,7 +1068,7 @@
         "/Users/jackpilkington/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
@@ -1076,8 +1076,8 @@
         "https://pkgs.dev.azure.com/janesintelligence/JDM2/_packaging/JDM2.Core/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
             "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj": {
               "projectPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj"
@@ -1092,8 +1092,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
