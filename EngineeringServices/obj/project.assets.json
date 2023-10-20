@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj",
+      "projectUniqueName": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj",
       "projectName": "EngineeringServices",
-      "projectPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj",
+      "projectPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj",
       "packagesPath": "/Users/jackpilkington/.nuget/packages/",
-      "outputPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/obj/",
+      "outputPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

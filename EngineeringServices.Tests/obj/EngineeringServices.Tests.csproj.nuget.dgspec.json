@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj": {}
+    "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj": {}
   },
   "projects": {
-    "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj": {
+    "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj",
+        "projectUniqueName": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj",
         "projectName": "EngineeringServices.Tests",
-        "projectPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj",
+        "projectPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj",
         "packagesPath": "/Users/jackpilkington/.nuget/packages/",
-        "outputPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices.Tests/obj/",
+        "outputPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices.Tests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj": {
-                "projectPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj"
+              "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj": {
+                "projectPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj": {
+    "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj",
+        "projectUniqueName": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj",
         "projectName": "EngineeringServices",
-        "projectPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/EngineeringServices.csproj",
+        "projectPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/EngineeringServices.csproj",
         "packagesPath": "/Users/jackpilkington/.nuget/packages/",
-        "outputPath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices/obj/",
+        "outputPath": "/Users/jackpilkington/Development/Interviews/dot-net-test/EngineeringServices/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
