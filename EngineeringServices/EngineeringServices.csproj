@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Using Include="System" />
+    <Using Include="System.Collections.Generic" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Services\MaintenanceTasks\" />
+    <None Remove="Repository\MaintenanceTasks\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\MaintenanceTasks\" />
+    <Folder Include="Repository\MaintenanceTasks\" />
+  </ItemGroup>
+</Project>

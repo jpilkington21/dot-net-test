@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdRY9QzljQ6QH0wQqRzp0FYUzSfEh3HUyzFMryUbhh0+UdDXYWXbBJHMVW+7yngucj9wDwJ3xNOvG5UAzYwnVA==",
+  "success": true,
+  "projectFilePath": "/Users/jackpilkington/Development/Interviews/JP-Test/dot-net-test/EngineeringServices.Tests/EngineeringServices.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackpilkington/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/microsoft.codecoverage/17.6.3/microsoft.codecoverage.17.6.3.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/microsoft.net.test.sdk/17.6.3/microsoft.net.test.sdk.17.6.3.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/microsoft.testplatform.objectmodel/17.6.3/microsoft.testplatform.objectmodel.17.6.3.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/microsoft.testplatform.testhost/17.6.3/microsoft.testplatform.testhost.17.6.3.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/moq/4.18.4/moq.4.18.4.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/jackpilkington/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
